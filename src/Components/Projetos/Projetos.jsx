@@ -1,7 +1,7 @@
 import {useState} from "react" //importando o hook useStates que nos permite guardar e controlar estados
-import PetAdopt from "../assets/PetAdopt.jpg"
-import ReciclaTech from "../assets/ReciclaTech.jpg"
-import VerdeAcao from "../assets/VerdeAcao.jpg"
+import PetAdopt from "../../assets/PetAdopt.jpg"
+import ReciclaTech from "../../assets/ReciclaTech.jpg"
+import VerdeAcao from "../../assets/VerdeAcao.jpg"
 
 
 function Projetos () {
