@@ -1,6 +1,6 @@
 .navBarHeader{
 
-    background-color: pink;
+    background-color: rgb(196, 192, 192);
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -17,5 +17,11 @@
         display: flex;
         justify-content: space-around;
         width: 50%;
+        list-style: none;
     }
+
+    li{
+        font-size: 3rem;
+    }
+
 }
